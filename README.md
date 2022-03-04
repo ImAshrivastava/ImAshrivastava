@@ -6,6 +6,8 @@
 
 <!-- Social icons section -->
 <p align="center">
+  Undergraduate Researcher & Systems Developer
+  <br><br>
   <a href=""><img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/youtube.png"/></a>
@@ -18,7 +20,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I'm+Aman+Shrivastava;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I'm+Aman+Shrivastava.;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
