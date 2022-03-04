@@ -1,9 +1,8 @@
+<div align="center">
+  <img height="300px" width="300px" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/aman.png"/>
+</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I'm+Aman+Shrivastava;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<br>
 
 <!-- Social icons section -->
 <p align="center">
@@ -17,9 +16,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<br/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I'm+Aman+Shrivastava;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-
+<hr>
 
 <p align=center>
   <img src="https://activity-graph.herokuapp.com/graph?username=ImAshrivastava&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
