@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="Discord"><img width="32px" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="Gmail"><img width="32px" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/gmail.png"/></a>
+  <a href="" alt="Gmail"><img width="42px" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/gmail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
