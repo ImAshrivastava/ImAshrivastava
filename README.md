@@ -6,7 +6,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  Undergraduate Researcher & Systems Developer
+  <!--Undergraduate Researcher & Systems Developer
   <br><br>
   <a href=""><img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -15,7 +15,7 @@
   <a href="" alt="Discord"><img width="32px" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="Gmail"><img width="42px" src="https://raw.githubusercontent.com/ImAshrivastava/ImAshrivastava/main/images/gmail.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;-->
 </p>
 
 <h1 align="center">
